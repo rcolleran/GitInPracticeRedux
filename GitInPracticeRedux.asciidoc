@@ -2,3 +2,4 @@ Opening joke.
 File for GitInPracticeRedux.
 Modified for second commit.
 Modified for Push Test.
+Modified for merge test.
